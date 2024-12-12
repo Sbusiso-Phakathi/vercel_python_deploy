@@ -1,4 +1,5 @@
 Flask==2.3.2
+setuptools
 gunicorn
 cmake
 streamlit==1.24.0
